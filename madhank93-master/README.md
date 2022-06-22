@@ -20,7 +20,8 @@
     <img src="https://img.shields.io/badge/MYSQL-a1e7de?style=for-the-badge&logo=mysql">
 </div>
 <br>
-
+<h3>Connect with me</h3>
+<div>
 <a href="https://www.linkedin.com/in/suba-shini-5185aa235/">
   <img align="left" alt="subashini Linkdein" width="90px" height="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
 </a>
@@ -33,7 +34,7 @@
   <img align="left" alt="subashini Github" width="90px" height="30px" src="https://img.shields.io/badge/GMAIL-ffb0a6?style=for-the-badge&logo=gmail" />
 </a>
 
-
+</div>
 
 
 <br/>
